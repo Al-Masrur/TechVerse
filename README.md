@@ -21,8 +21,6 @@ TechVerse is a full-stack web application developed as part of the **Web Enginee
 
 ## 🛠️ Tech Stack
 
-*(Note: Update this section based on the actual technologies you used!)*
-
 **Frontend:**
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js / Bootstrap / Tailwind CSS 
